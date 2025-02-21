@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![Portfolio Screenshot](https://i.ibb.co/bjbf1Tr/your-image-name.png)
+<a href="https://ibb.co/bjbf1Trq"><img src="https://i.ibb.co/vCXt1pJg/Screenshot-2025-02-22-000759.png" alt="Screenshot-2025-02-22-000759" border="0" /></a>
 
 
 
